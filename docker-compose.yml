@@ -63,7 +63,7 @@ services:
             - bitrix
         restart: always
     adminer:
-        image: dockette/adminer:full
+        build: ./adminer
         container_name: ${PROJECT}adminer
         links:
             - db:db
@@ -81,11 +81,10 @@ services:
             - ./logs/php:/var/log/php
             - ./logs/db:/var/log/mysql
             - ./logs/memcached:/var/log/memcached
-            - db:/var/lib/mysql
+            - ./data/db:/var/lib/mysql
             - ./data/memcached:/var/lib/memcached
             - ./www/html:/var/www/html
             - ${SITE_PATH}:/var/www/bitrix
-            - /etc/localtime:/etc/localtime/:ro
         networks:
             - bitrix
 networks:
