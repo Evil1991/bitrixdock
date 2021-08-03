@@ -36,9 +36,9 @@
 ## если гит в корне сайта
 
 # configs
-/bitrix/php_interface/dbconn.php
-/bitrix/.settings.php
-/bitrix/.settings_extra.php
+#/bitrix/php_interface/dbconn.php
+#/bitrix/.settings.php
+#/bitrix/.settings_extra.php
 
 # backups
 /bitrix/backup
