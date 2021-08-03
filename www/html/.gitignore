@@ -60,9 +60,9 @@
 
 ## если гит выше корня сайта
 # configs
-/public/bitrix/php_interface/dbconn.php
-/public/bitrix/.settings.php
-/public/bitrix/.settings_extra.php
+#/public/bitrix/php_interface/dbconn.php
+#/public/bitrix/.settings.php
+#/public/bitrix/.settings_extra.php
 
 # backups
 /public/bitrix/backup
