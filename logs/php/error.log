@@ -1,0 +1,210 @@
+[01-Aug-2021 01:54:54 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 840
+[01-Aug-2021 01:54:54 Europe/Moscow] PHP Stack trace:
+[01-Aug-2021 01:54:54 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[01-Aug-2021 01:54:54 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/business_encode.tar.gz', $strFilename = '/var/www/bitrix/business_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:612
+[01-Aug-2021 01:54:54 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 302 Found', $needle = 302) /var/www/bitrix/bitrixsetup.php:840
+[01-Aug-2021 01:54:54 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 840
+[01-Aug-2021 01:54:54 Europe/Moscow] PHP Stack trace:
+[01-Aug-2021 01:54:54 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[01-Aug-2021 01:54:54 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/business_encode.tar.gz', $strFilename = '/var/www/bitrix/business_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:612
+[01-Aug-2021 01:54:54 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 302 Found', $needle = 302) /var/www/bitrix/bitrixsetup.php:840
+[01-Aug-2021 01:54:54 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 840
+[01-Aug-2021 01:54:54 Europe/Moscow] PHP Stack trace:
+[01-Aug-2021 01:54:54 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[01-Aug-2021 01:54:54 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/business_encode.tar.gz', $strFilename = '/var/www/bitrix/business_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:612
+[01-Aug-2021 01:54:54 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 200 OK', $needle = 200) /var/www/bitrix/bitrixsetup.php:840
+[01-Aug-2021 01:54:54 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 840
+[01-Aug-2021 01:54:54 Europe/Moscow] PHP Stack trace:
+[01-Aug-2021 01:54:54 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[01-Aug-2021 01:54:54 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/business_encode.tar.gz', $strFilename = '/var/www/bitrix/business_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:612
+[01-Aug-2021 01:54:54 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 200 OK', $needle = 200) /var/www/bitrix/bitrixsetup.php:840
+[01-Aug-2021 01:54:54 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 989
+[01-Aug-2021 01:54:54 Europe/Moscow] PHP Stack trace:
+[01-Aug-2021 01:54:54 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[01-Aug-2021 01:54:54 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/business_encode.tar.gz', $strFilename = '/var/www/bitrix/business_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:612
+[01-Aug-2021 01:54:54 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 200 OK', $needle = 200) /var/www/bitrix/bitrixsetup.php:989
+[01-Aug-2021 01:54:54 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 989
+[01-Aug-2021 01:54:54 Europe/Moscow] PHP Stack trace:
+[01-Aug-2021 01:54:54 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[01-Aug-2021 01:54:54 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/business_encode.tar.gz', $strFilename = '/var/www/bitrix/business_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:612
+[01-Aug-2021 01:54:54 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 200 OK', $needle = 200) /var/www/bitrix/bitrixsetup.php:989
+[01-Aug-2021 01:55:05 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 840
+[01-Aug-2021 01:55:05 Europe/Moscow] PHP Stack trace:
+[01-Aug-2021 01:55:05 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[01-Aug-2021 01:55:05 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/business_encode.tar.gz', $strFilename = '/var/www/bitrix/business_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:612
+[01-Aug-2021 01:55:05 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 200 OK', $needle = 200) /var/www/bitrix/bitrixsetup.php:840
+[01-Aug-2021 01:55:05 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 840
+[01-Aug-2021 01:55:05 Europe/Moscow] PHP Stack trace:
+[01-Aug-2021 01:55:05 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[01-Aug-2021 01:55:05 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/business_encode.tar.gz', $strFilename = '/var/www/bitrix/business_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:612
+[01-Aug-2021 01:55:05 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 200 OK', $needle = 200) /var/www/bitrix/bitrixsetup.php:840
+[01-Aug-2021 01:55:05 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 989
+[01-Aug-2021 01:55:05 Europe/Moscow] PHP Stack trace:
+[01-Aug-2021 01:55:05 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[01-Aug-2021 01:55:05 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/business_encode.tar.gz', $strFilename = '/var/www/bitrix/business_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:612
+[01-Aug-2021 01:55:05 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 206 Partial Content', $needle = 206) /var/www/bitrix/bitrixsetup.php:989
+[01-Aug-2021 01:55:05 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 989
+[01-Aug-2021 01:55:05 Europe/Moscow] PHP Stack trace:
+[01-Aug-2021 01:55:05 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[01-Aug-2021 01:55:05 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/business_encode.tar.gz', $strFilename = '/var/www/bitrix/business_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:612
+[01-Aug-2021 01:55:05 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 206 Partial Content', $needle = 206) /var/www/bitrix/bitrixsetup.php:989
+[01-Aug-2021 01:55:16 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 840
+[01-Aug-2021 01:55:16 Europe/Moscow] PHP Stack trace:
+[01-Aug-2021 01:55:16 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[01-Aug-2021 01:55:16 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/business_encode.tar.gz', $strFilename = '/var/www/bitrix/business_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:612
+[01-Aug-2021 01:55:16 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 200 OK', $needle = 200) /var/www/bitrix/bitrixsetup.php:840
+[01-Aug-2021 01:55:16 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 840
+[01-Aug-2021 01:55:16 Europe/Moscow] PHP Stack trace:
+[01-Aug-2021 01:55:16 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[01-Aug-2021 01:55:16 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/business_encode.tar.gz', $strFilename = '/var/www/bitrix/business_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:612
+[01-Aug-2021 01:55:16 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 200 OK', $needle = 200) /var/www/bitrix/bitrixsetup.php:840
+[01-Aug-2021 01:55:16 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 989
+[01-Aug-2021 01:55:16 Europe/Moscow] PHP Stack trace:
+[01-Aug-2021 01:55:16 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[01-Aug-2021 01:55:16 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/business_encode.tar.gz', $strFilename = '/var/www/bitrix/business_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:612
+[01-Aug-2021 01:55:16 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 206 Partial Content', $needle = 206) /var/www/bitrix/bitrixsetup.php:989
+[01-Aug-2021 01:55:16 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 989
+[01-Aug-2021 01:55:16 Europe/Moscow] PHP Stack trace:
+[01-Aug-2021 01:55:16 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[01-Aug-2021 01:55:16 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/business_encode.tar.gz', $strFilename = '/var/www/bitrix/business_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:612
+[01-Aug-2021 01:55:16 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 206 Partial Content', $needle = 206) /var/www/bitrix/bitrixsetup.php:989
+[01-Aug-2021 01:55:26 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 840
+[01-Aug-2021 01:55:26 Europe/Moscow] PHP Stack trace:
+[01-Aug-2021 01:55:26 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[01-Aug-2021 01:55:26 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/business_encode.tar.gz', $strFilename = '/var/www/bitrix/business_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:612
+[01-Aug-2021 01:55:26 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 200 OK', $needle = 200) /var/www/bitrix/bitrixsetup.php:840
+[01-Aug-2021 01:55:26 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 840
+[01-Aug-2021 01:55:26 Europe/Moscow] PHP Stack trace:
+[01-Aug-2021 01:55:26 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[01-Aug-2021 01:55:26 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/business_encode.tar.gz', $strFilename = '/var/www/bitrix/business_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:612
+[01-Aug-2021 01:55:26 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 200 OK', $needle = 200) /var/www/bitrix/bitrixsetup.php:840
+[01-Aug-2021 01:55:26 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 989
+[01-Aug-2021 01:55:26 Europe/Moscow] PHP Stack trace:
+[01-Aug-2021 01:55:26 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[01-Aug-2021 01:55:26 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/business_encode.tar.gz', $strFilename = '/var/www/bitrix/business_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:612
+[01-Aug-2021 01:55:26 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 206 Partial Content', $needle = 206) /var/www/bitrix/bitrixsetup.php:989
+[01-Aug-2021 01:55:26 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 989
+[01-Aug-2021 01:55:26 Europe/Moscow] PHP Stack trace:
+[01-Aug-2021 01:55:26 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[01-Aug-2021 01:55:26 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/business_encode.tar.gz', $strFilename = '/var/www/bitrix/business_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:612
+[01-Aug-2021 01:55:26 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 206 Partial Content', $needle = 206) /var/www/bitrix/bitrixsetup.php:989
+[01-Aug-2021 01:55:37 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 840
+[01-Aug-2021 01:55:37 Europe/Moscow] PHP Stack trace:
+[01-Aug-2021 01:55:37 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[01-Aug-2021 01:55:37 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/business_encode.tar.gz', $strFilename = '/var/www/bitrix/business_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:612
+[01-Aug-2021 01:55:37 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 200 OK', $needle = 200) /var/www/bitrix/bitrixsetup.php:840
+[01-Aug-2021 01:55:37 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 840
+[01-Aug-2021 01:55:37 Europe/Moscow] PHP Stack trace:
+[01-Aug-2021 01:55:37 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[01-Aug-2021 01:55:37 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/business_encode.tar.gz', $strFilename = '/var/www/bitrix/business_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:612
+[01-Aug-2021 01:55:37 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 200 OK', $needle = 200) /var/www/bitrix/bitrixsetup.php:840
+[01-Aug-2021 01:55:37 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 989
+[01-Aug-2021 01:55:37 Europe/Moscow] PHP Stack trace:
+[01-Aug-2021 01:55:37 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[01-Aug-2021 01:55:37 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/business_encode.tar.gz', $strFilename = '/var/www/bitrix/business_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:612
+[01-Aug-2021 01:55:37 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 206 Partial Content', $needle = 206) /var/www/bitrix/bitrixsetup.php:989
+[01-Aug-2021 01:55:37 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 989
+[01-Aug-2021 01:55:37 Europe/Moscow] PHP Stack trace:
+[01-Aug-2021 01:55:37 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[01-Aug-2021 01:55:37 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/business_encode.tar.gz', $strFilename = '/var/www/bitrix/business_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:612
+[01-Aug-2021 01:55:37 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 206 Partial Content', $needle = 206) /var/www/bitrix/bitrixsetup.php:989
+[01-Aug-2021 01:55:48 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 840
+[01-Aug-2021 01:55:48 Europe/Moscow] PHP Stack trace:
+[01-Aug-2021 01:55:48 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[01-Aug-2021 01:55:48 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/business_encode.tar.gz', $strFilename = '/var/www/bitrix/business_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:612
+[01-Aug-2021 01:55:48 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 200 OK', $needle = 200) /var/www/bitrix/bitrixsetup.php:840
+[01-Aug-2021 01:55:48 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 840
+[01-Aug-2021 01:55:48 Europe/Moscow] PHP Stack trace:
+[01-Aug-2021 01:55:48 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[01-Aug-2021 01:55:48 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/business_encode.tar.gz', $strFilename = '/var/www/bitrix/business_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:612
+[01-Aug-2021 01:55:48 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 200 OK', $needle = 200) /var/www/bitrix/bitrixsetup.php:840
+[01-Aug-2021 01:55:48 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 989
+[01-Aug-2021 01:55:48 Europe/Moscow] PHP Stack trace:
+[01-Aug-2021 01:55:48 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[01-Aug-2021 01:55:48 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/business_encode.tar.gz', $strFilename = '/var/www/bitrix/business_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:612
+[01-Aug-2021 01:55:48 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 206 Partial Content', $needle = 206) /var/www/bitrix/bitrixsetup.php:989
+[01-Aug-2021 01:55:48 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 989
+[01-Aug-2021 01:55:48 Europe/Moscow] PHP Stack trace:
+[01-Aug-2021 01:55:48 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[01-Aug-2021 01:55:48 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/business_encode.tar.gz', $strFilename = '/var/www/bitrix/business_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:612
+[01-Aug-2021 01:55:48 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 206 Partial Content', $needle = 206) /var/www/bitrix/bitrixsetup.php:989
+[01-Aug-2021 01:55:59 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 840
+[01-Aug-2021 01:55:59 Europe/Moscow] PHP Stack trace:
+[01-Aug-2021 01:55:59 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[01-Aug-2021 01:55:59 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/business_encode.tar.gz', $strFilename = '/var/www/bitrix/business_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:612
+[01-Aug-2021 01:55:59 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 200 OK', $needle = 200) /var/www/bitrix/bitrixsetup.php:840
+[01-Aug-2021 01:55:59 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 840
+[01-Aug-2021 01:55:59 Europe/Moscow] PHP Stack trace:
+[01-Aug-2021 01:55:59 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[01-Aug-2021 01:55:59 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/business_encode.tar.gz', $strFilename = '/var/www/bitrix/business_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:612
+[01-Aug-2021 01:55:59 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 200 OK', $needle = 200) /var/www/bitrix/bitrixsetup.php:840
+[01-Aug-2021 01:55:59 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 989
+[01-Aug-2021 01:55:59 Europe/Moscow] PHP Stack trace:
+[01-Aug-2021 01:55:59 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[01-Aug-2021 01:55:59 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/business_encode.tar.gz', $strFilename = '/var/www/bitrix/business_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:612
+[01-Aug-2021 01:55:59 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 206 Partial Content', $needle = 206) /var/www/bitrix/bitrixsetup.php:989
+[01-Aug-2021 01:55:59 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 989
+[01-Aug-2021 01:55:59 Europe/Moscow] PHP Stack trace:
+[01-Aug-2021 01:55:59 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[01-Aug-2021 01:55:59 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/business_encode.tar.gz', $strFilename = '/var/www/bitrix/business_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:612
+[01-Aug-2021 01:55:59 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 206 Partial Content', $needle = 206) /var/www/bitrix/bitrixsetup.php:989
+[01-Aug-2021 01:56:10 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 840
+[01-Aug-2021 01:56:10 Europe/Moscow] PHP Stack trace:
+[01-Aug-2021 01:56:10 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[01-Aug-2021 01:56:10 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/business_encode.tar.gz', $strFilename = '/var/www/bitrix/business_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:612
+[01-Aug-2021 01:56:10 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 200 OK', $needle = 200) /var/www/bitrix/bitrixsetup.php:840
+[01-Aug-2021 01:56:10 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 840
+[01-Aug-2021 01:56:10 Europe/Moscow] PHP Stack trace:
+[01-Aug-2021 01:56:10 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[01-Aug-2021 01:56:10 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/business_encode.tar.gz', $strFilename = '/var/www/bitrix/business_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:612
+[01-Aug-2021 01:56:10 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 200 OK', $needle = 200) /var/www/bitrix/bitrixsetup.php:840
+[01-Aug-2021 01:56:10 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 989
+[01-Aug-2021 01:56:10 Europe/Moscow] PHP Stack trace:
+[01-Aug-2021 01:56:10 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[01-Aug-2021 01:56:10 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/business_encode.tar.gz', $strFilename = '/var/www/bitrix/business_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:612
+[01-Aug-2021 01:56:10 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 206 Partial Content', $needle = 206) /var/www/bitrix/bitrixsetup.php:989
+[01-Aug-2021 01:56:10 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 989
+[01-Aug-2021 01:56:10 Europe/Moscow] PHP Stack trace:
+[01-Aug-2021 01:56:10 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[01-Aug-2021 01:56:10 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/business_encode.tar.gz', $strFilename = '/var/www/bitrix/business_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:612
+[01-Aug-2021 01:56:10 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 206 Partial Content', $needle = 206) /var/www/bitrix/bitrixsetup.php:989
+[01-Aug-2021 01:56:22 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 840
+[01-Aug-2021 01:56:22 Europe/Moscow] PHP Stack trace:
+[01-Aug-2021 01:56:22 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[01-Aug-2021 01:56:22 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/business_encode.tar.gz', $strFilename = '/var/www/bitrix/business_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:612
+[01-Aug-2021 01:56:22 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 200 OK', $needle = 200) /var/www/bitrix/bitrixsetup.php:840
+[01-Aug-2021 01:56:22 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 840
+[01-Aug-2021 01:56:22 Europe/Moscow] PHP Stack trace:
+[01-Aug-2021 01:56:22 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[01-Aug-2021 01:56:22 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/business_encode.tar.gz', $strFilename = '/var/www/bitrix/business_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:612
+[01-Aug-2021 01:56:22 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 200 OK', $needle = 200) /var/www/bitrix/bitrixsetup.php:840
+[01-Aug-2021 01:56:22 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 989
+[01-Aug-2021 01:56:22 Europe/Moscow] PHP Stack trace:
+[01-Aug-2021 01:56:22 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[01-Aug-2021 01:56:22 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/business_encode.tar.gz', $strFilename = '/var/www/bitrix/business_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:612
+[01-Aug-2021 01:56:22 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 206 Partial Content', $needle = 206) /var/www/bitrix/bitrixsetup.php:989
+[01-Aug-2021 01:56:22 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 989
+[01-Aug-2021 01:56:22 Europe/Moscow] PHP Stack trace:
+[01-Aug-2021 01:56:22 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[01-Aug-2021 01:56:22 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/business_encode.tar.gz', $strFilename = '/var/www/bitrix/business_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:612
+[01-Aug-2021 01:56:22 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 206 Partial Content', $needle = 206) /var/www/bitrix/bitrixsetup.php:989
+[01-Aug-2021 11:36:51 Europe/Moscow] PHP Fatal error:  require_once(): Failed opening required '/var/www/bitrix/bitrix/php_interface/dbconn.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/modules/main/include/urlrewrite.php on line 34
+[01-Aug-2021 11:36:51 Europe/Moscow] PHP Stack trace:
+[01-Aug-2021 11:36:51 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/urlrewrite.php:0
+[01-Aug-2021 11:36:51 Europe/Moscow] PHP   2. include_once() /var/www/bitrix/bitrix/urlrewrite.php:2
+[01-Aug-2021 11:36:54 Europe/Moscow] PHP Fatal error:  require_once(): Failed opening required '/var/www/bitrix/bitrix/php_interface/dbconn.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/modules/main/start.php on line 1
+[01-Aug-2021 11:36:54 Europe/Moscow] PHP Stack trace:
+[01-Aug-2021 11:36:54 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/index.php:0
+[01-Aug-2021 11:36:54 Europe/Moscow] PHP   2. require() /var/www/bitrix/index.php:2
+[01-Aug-2021 11:36:54 Europe/Moscow] PHP   3. require_once() /var/www/bitrix/bitrix/header.php:1
+[01-Aug-2021 11:36:54 Europe/Moscow] PHP   4. require_once() /var/www/bitrix/bitrix/modules/main/include/prolog.php:10
+[01-Aug-2021 11:36:54 Europe/Moscow] PHP   5. require_once() /var/www/bitrix/bitrix/modules/main/include/prolog_before.php:14
+[01-Aug-2021 11:36:54 Europe/Moscow] PHP   6. require_once() /var/www/bitrix/bitrix/modules/main/include.php:1
+[01-Aug-2021 11:36:55 Europe/Moscow] PHP Fatal error:  require_once(): Failed opening required '/var/www/bitrix/bitrix/php_interface/dbconn.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/modules/main/start.php on line 1
+[01-Aug-2021 11:36:55 Europe/Moscow] PHP Stack trace:
+[01-Aug-2021 11:36:55 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/index.php:0
+[01-Aug-2021 11:36:55 Europe/Moscow] PHP   2. require() /var/www/bitrix/index.php:2
+[01-Aug-2021 11:36:55 Europe/Moscow] PHP   3. require_once() /var/www/bitrix/bitrix/header.php:1
+[01-Aug-2021 11:36:55 Europe/Moscow] PHP   4. require_once() /var/www/bitrix/bitrix/modules/main/include/prolog.php:10
+[01-Aug-2021 11:36:55 Europe/Moscow] PHP   5. require_once() /var/www/bitrix/bitrix/modules/main/include/prolog_before.php:14
+[01-Aug-2021 11:36:55 Europe/Moscow] PHP   6. require_once() /var/www/bitrix/bitrix/modules/main/include.php:1
