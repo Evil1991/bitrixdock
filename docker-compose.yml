@@ -83,7 +83,6 @@ services:
             - ./logs/memcached:/var/log/memcached
             - ./data/db:/var/lib/mysql
             - ./data/memcached:/var/lib/memcached
-            - ./www/html:/var/www/html
             - ${SITE_PATH}:/var/www/bitrix
         networks:
             - bitrix
